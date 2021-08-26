@@ -1,7 +1,7 @@
 //Find the duplicate in an array of N+1 integers.
 
-//TC=O(log n) 
-//SC=O(1)
+//TC= O(log n) 
+//SC= O(1)
 
 public class duplicateInArray
 {
